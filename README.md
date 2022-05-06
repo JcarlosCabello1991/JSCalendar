@@ -7,7 +7,7 @@ The project consists of the development of a calendar that must show all the mon
 
 # Technologies
 
-CSS, HTML5, Javascript, localStorage, Date Objects, SMACSS.
+CSS, HTML5, Javascript, localStorage, Date Objects, SMACSS, BEM.
 
 # Organization and improvements
 
